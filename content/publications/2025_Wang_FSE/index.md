@@ -6,7 +6,7 @@ authors:
   - "Wenhan Wang"
   - "Xuan Xie"
   - "Yuheng Huang"
-  - "Renzhi Wang"
+  - "***Renzhi Wang***"
   - "An Ran Chen"
   - "Lei Ma"
 publication_types: ["3"]

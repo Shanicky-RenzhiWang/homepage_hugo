@@ -3,7 +3,7 @@ title: "MoDitector: Module-Directed Testing for Autonomous Driving Systems"
 date: 2025-01-01
 publishDate: 2025-01-01
 authors:
-  - "Renzhi Wang"
+  - "***Renzhi Wang***"
   - "Mingfei Cheng"
   - "Xiaofei Xie"
   - "Yuan Zhou"
