@@ -16,4 +16,8 @@ links:
     icon: "open-access"
     name: "link"
     url: "https://arxiv.org/pdf/2502.08504"
+  - icon_pack: "fas"
+    icon: "open-access"
+    name: "site"
+    url: 'https://sites.google.com/view/moditector'
 ---
