@@ -17,5 +17,5 @@ main:
   #  url: '#gallery'
   #  weight: 20
   - name: CV
-    url: 'https://resource.renzhiwang.xyz/Renzhi_Wang_CV.pdf'
+    url: 'https://homepage-resource.renzhiwang.xyz/Renzhi_Wang_CV.pdf'
     weight: 60
