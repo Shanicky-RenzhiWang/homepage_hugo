@@ -58,7 +58,7 @@ social:
     link: shanicky4ever@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/shanicky4ever
+    link: https://github.com/Shanicky-RenzhiWang
     display:
       header: true
   - icon: graduation-cap
