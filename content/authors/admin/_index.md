@@ -74,7 +74,7 @@ I am a fourth-year Ph.D. student at the University of Alberta, advised by Prof. 
 
 I am now also under the advice of Prof. [Qing Guo](https://tsingqguo.github.io) and an intern at Eacon with [Karry Yang](https://ieeexplore.ieee.org/author/37089895553). I was fortunate to be advised by Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) during my visit to Singapore Management University. 
 
-I received my M.Eng. degree from Xidian University, where I was advised by Prof. [Cong Tian](https://web.xidian.edu.cn/ctian/en/index.html), with a research focus on the transferability of adversarial examples. I obtained my bachelor's degree from Xian Jiaotong University, majoring in Process Equipment and Control Engineering. 
+I received my M.Eng. degree from Xidian University, where I was advised by Prof. [Cong Tian](https://web.xidian.edu.cn/ctian/en/index.html), with a research focus on the transferability of adversarial examples. I obtained my bachelor's degree from Xi'an Jiaotong University, majoring in Process Equipment and Control Engineering. 
 
 Before pursuing my Ph.D., I was employed as a software engineer at Intel, buddied by [Xiaochuan Luo](https://ieeexplore.ieee.org/author/37086934684) and [James Xu](https://www.linkedin.com/in/xu-james-834550a/).
 
