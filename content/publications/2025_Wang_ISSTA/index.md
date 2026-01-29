@@ -3,6 +3,7 @@ title: "MoDitector: Module-Directed Testing for Autonomous Driving Systems"
 date: 2025-06-25
 publishDate: 2025-06-25
 authors:
+  - (CCF-A, Core-A)
   - "***Renzhi Wang***"
   - "Mingfei Cheng"
   - "Xiaofei Xie"
@@ -10,7 +11,7 @@ authors:
   - "Lei Ma"
 publication_types: ["3"]
 featured: true
-publication: "ISSTA 2025"
+publication: "ISSTA 2025 (Directly Accept, rank top 4%)"
 links:
   - icon_pack: "fas"
     icon: "open-access"

@@ -3,7 +3,7 @@ title: 'STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems'
 authors:
 - Mingfei Cheng
 - Renzhi Wang
- -Xiaofei Xie
+- Xiaofei Xie
 - Yuan Zhou
 - Lei Ma
 date: '2025-01-03'
