@@ -72,7 +72,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 I am a fourth-year Ph.D. student at the University of Alberta, advised by Prof. [Lei Ma](https://www.malei.org/). My primary research area is the testing of Autonomous Driving Systems and AI-CPS.
 
-I am now also under the advice of Prof. [Qing Guo](https://tsingqguo.github.io) and an intern at Eacon with [Karry Yang](https://ieeexplore.ieee.org/author/37089895553). I was fortunate to be advised by Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) during my visit to Singapore Management University. 
+I am now also under the advice of Prof. [Qing Guo](https://tsingqguo.github.io), focus on 3DGS for Autonomous Driving. I was fortunate to be advised by Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) during my visit to Singapore Management University. 
 
 I received my M.Eng. degree from Xidian University, where I was advised by Prof. [Cong Tian](https://web.xidian.edu.cn/ctian/en/index.html), with a research focus on the transferability of adversarial examples. I obtained my bachelor's degree from Xi'an Jiaotong University, majoring in Process Equipment and Control Engineering. 
 
