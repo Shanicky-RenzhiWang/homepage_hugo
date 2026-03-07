@@ -3,7 +3,7 @@ title: "Beyond Visual Reconstruction Quality: Object Perception-aware 3D Gaussia
 date: 2026-01-26
 publishDate: 2026-01-26
 authors:
-  - (CAAI-A, Core-A*)
+  - (CCF-A, Core-A*)
   - "***Renzhi Wang***"
   - "Yuxiang Fu"
   - "Wuqi Wang"
